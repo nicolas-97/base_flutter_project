@@ -4,22 +4,23 @@ Es una idea de como se deben organizar las carpetas para utilizar la arquitectur
 
 ## Estructura
 
-.
-└── App/
-    ├── android/
-    ├── ios/
-    ├── linux/
-    ├── windows/
-    ├── macos/
-    ├── test/
-    ├── web/
+
+    ── App
+    |   
+    ├── android
+    ├── ios
+    ├── linux
+    ├── windows
+    ├── macos
+    ├── test
+    ├── web
     ├── lib/
-    │   ├── data/
+    │   ├── data
     │   │   ├── factory
     │   │   └── models
     │   ├── utils
     │   ├── view_models
-    │   ├── views/
+    │   ├── views
     │   │   ├── animations
     │   │   ├── screens
     │   │   ├── styles
